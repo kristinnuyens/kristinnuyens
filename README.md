@@ -62,4 +62,4 @@ During the BeCode AI & Data Science bootcamp, I completed a range of projects sh
 All project code and notebooks are available in my repositories. Explore my GitHub to see hands-on examples of these skills in action.
 
 ## 📫 Let's Connect!
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/kristinnuyens) [LinkedIn](https://www.linkedin.com/in/kristinnuyens/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/kristinnuyens) [Let's Connect!](https://www.linkedin.com/in/kristinnuyens/)
