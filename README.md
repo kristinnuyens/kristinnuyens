@@ -11,7 +11,7 @@ I am passionate about combining deep domain expertise with modern data tools to 
 
 ## 🛠 Tech Stack
 
-**Programming & Core Data**
+**Programming & Core Data**  
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-brightgreen?logo=pandas&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
@@ -19,14 +19,14 @@ I am passionate about combining deep domain expertise with modern data tools to 
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-red?logo=xgboost&logoColor=white)
 
-**Visualization & Analytics**
+**Visualization & Analytics**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-darkblue?logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-darkblue?logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=power-bi&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?logo=seaborn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-orange?logo=tableau&logoColor=white)
 
-**Data Engineering & Cloud / Tools**
+**Data Engineering & Cloud / Tools**  
 ![Airflow](https://img.shields.io/badge/Airflow-blue?logo=apache-airflow&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoft-azure&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-purple?logo=microsoft-azure&logoColor=white)
