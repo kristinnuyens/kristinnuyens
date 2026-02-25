@@ -47,5 +47,4 @@ I am passionate about combining deep domain expertise with modern data tools to 
 
 Explore my GitHub repositories to see the projects I completed during the BeCode AI & Data Science bootcamp, showcasing my skills in data engineering, analytics, machine learning, and cloud-based data tools.
 
-## 📫 Let's Connect!
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/kristinnuyens) [Let's Connect!](https://www.linkedin.com/in/kristinnuyens/)
+**📫 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/kristinnuyens) [Let's Connect!](https://www.linkedin.com/in/kristinnuyens/)**
