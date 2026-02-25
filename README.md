@@ -47,15 +47,7 @@ I am passionate about combining deep domain expertise with modern data tools to 
 
 ## 🚀 Projects & Learning Highlights
 
-During the BeCode AI & Data Science bootcamp, I completed a range of projects showcasing my growing skills in **data engineering, analytics, and machine learning**. Key themes include:
-
-- **Data Cleaning & ETL Pipelines:** Transforming raw datasets into structured, analysis-ready formats using Python, Pandas, SQL, and SQLite
-- **Machine Learning & Predictive Models:** Building regression and classification models with Scikit-learn and XGBoost; experimenting with feature engineering and model evaluation
-- **Visualization & Analytics:** Presenting insights with Matplotlib, Seaborn, Plotly, Power BI, and Tableau
-- **Web Scraping & APIs:** Collecting data using BeautifulSoup, Selenium, and Requests
-- **Cloud & Data Tools:** Working with Azure, Azure SQL, Azure Functions, Databricks, Spark, Docker, and Airflow to handle data at scale
-
-All project code and notebooks are available in my repositories. Explore my GitHub to see hands-on examples of these skills in action.
+Explore my GitHub repositories to see the projects I completed during the BeCode AI & Data Science bootcamp, showcasing my skills in data engineering, analytics, machine learning, and cloud-based data tools.
 
 ## 📫 Let's Connect!
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/kristinnuyens) [Let's Connect!](https://www.linkedin.com/in/kristinnuyens/)
