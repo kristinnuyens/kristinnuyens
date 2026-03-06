@@ -1,12 +1,12 @@
 # Hello 👋 , I'm Kristin!
 
-🎓 AI & Data Science Bootcamp Trainee in Data Engineering track at [BeCode.org](https://www.becode.org)  
-💼 Clinical Data Management Leader with 25+ years of experience  
-📈 Passionate about turning data into actionable insights
+🎓 AI & Data Science Bootcamp Trainee (Data Engineering track) at [BeCode.org](https://www.becode.org)  
+💼 Clinical Data Management Leader with 25+ years in biotech/pharma  
+📈 Interested in applying modern data tooling to clinical research data and operations
 
 ## 🚀 About Me
-I have spent over 25 years leading Clinical Data Management (CDM) teams in biotech and pharma, building processes, managing trials, and ensuring high-quality data for regulatory submissions.  
-Currently, I am completing an **intensive AI & Data Science bootcamp at BeCode.org** to strengthen my data skills, particularly in Python, SQL, and machine learning, to enhance CDM processes, data analysis, and operational insights.  
+I spent over 25 years leading Clinical Data Management (CDM) teams in biotech and pharma, building data processes, supporting clinical trials, and ensuring high-quality datasets for regulatory submissions.  
+I am currently strenghtening my technical data skills through a **full-time AI & Data Science bootcamp at BeCode.org**, with hands-on work in Python, SQL, machine learning, and data engineering tools. My focus is on applying data analytics and automation to improve clinical research data processes and operational insights.
 
 ## 🛠 Tech Stack
 
