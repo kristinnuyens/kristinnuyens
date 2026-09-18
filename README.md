@@ -48,6 +48,6 @@ Explore my GitHub repositories to see the public projects I completed during the
 
 ## 🏥 Current Work-related Projects
 
-via ([https://img.shields.io/badge/Requests-red?logo=python&logoColor=white](https://github.com/RD-UZL-KN))
+via ([RD-UZL-KN](https://github.com/RD-UZL-KN))
 
 ## 📫 [Let's Connect!](https://www.linkedin.com/in/kristinnuyens/) on [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/kristinnuyens)
