@@ -46,4 +46,8 @@ I am currently strenghtening my technical data skills through a **full-time AI &
 
 Explore my GitHub repositories to see the public projects I completed during the BeCode AI & Data Science bootcamp, showcasing my skills in data engineering, analytics, machine learning, and cloud-based data tools.
 
+## 🏥 Current Work-related Projects
+
+via https://github.com/RD-UZL-KN([https://img.shields.io/badge/Requests-red?logo=python&logoColor=white](https://github.com/RD-UZL-KN))
+
 ## 📫 [Let's Connect!](https://www.linkedin.com/in/kristinnuyens/) on [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/kristinnuyens)
